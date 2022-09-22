@@ -3,6 +3,10 @@ def max_value(numbers):
         in the list.
     """
     result = max(numbers)
+    x = 0 
+    v = 98
+
+    hat  = "tophat"
     return result
 
 
